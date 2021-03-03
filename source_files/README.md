@@ -66,7 +66,7 @@ Now add a method `.add_student()` which takes two arguments: a student's full na
 # Again, you must reinstantiate since you've modified the class!
 school = School("Middletown High School") 
 school.add_student("Peter Piper", 12)
-school.roster #{"12": ["Peter Piper"]}
+school.roster # {"12": ["Peter Piper"]}
 ```
 
 
